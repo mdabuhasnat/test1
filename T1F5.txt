@@ -1,3 +1,0 @@
-This is T1F5 
-
-Now i am pulling master to another local branch
